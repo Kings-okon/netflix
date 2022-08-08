@@ -1,0 +1,19 @@
+.container {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
+
+/* 
+.container .form1 {
+    position: relative;
+    display: flex;
+    background-color: red;
+}
+
+.container .img2 {
+    position: absolute;
+    z-index: 1000;
+    justify-content: end;
+    margin-top: 1%;
+} */
